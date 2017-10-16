@@ -1,0 +1,24 @@
+{
+  "name": "twitter-salesforce-stream",
+  "version": "1.0.0",
+  "description": "Stream tweets into Salesforce as Platform Events",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Emily Rose <erose@salesforce.com>",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "nforce": "https://github.com/jthurst01/nforce/tarball/master",
+    "twit": "^2.2.9"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amorelandra/twitter-salesforce-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Amorelandra/twitter-salesforce-stream/issues"
+  },
+  "homepage": "https://github.com/Amorelandra/twitter-salesforce-stream#readme"
+}
