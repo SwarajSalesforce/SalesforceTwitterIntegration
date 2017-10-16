@@ -1,10 +1,10 @@
 let Twitter = require('twit');
 
-const consumer_key = 'PZuIOJhdGxYM4FEdFuuvgKkHe';
-const consumer_secret = 'X1eQSrHjTDWL4hhN6tAF4fHZmGFB6aFL8FxFr62fgstOhwA4sZ';
-const access_token = '85584838-cMiKxCGbwLBFQWEZSpYKtugrw6jRDgt5dH0XAOTGw';
-const access_token_secret = 'n9WUh2cltIFNoX34dsbvVwkqE75WvACEj1pyA73C7GnoN';
-const search_string = 'WeekendKaVaar';
+const consumer_key = '';
+const consumer_secret = '';
+const access_token = '';
+const access_token_secret = '';
+const search_string = '';
 
 if (!consumer_key) { missing("TWITTER_CONSUMER_KEY"); }
 if (!consumer_secret) { missing("TWITTER_CONSUMER_SECRET"); }
