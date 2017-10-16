@@ -1,10 +1,10 @@
 let force = require('nforce');
 
-const username = 'swaraj.salesforce@outlook.com';
-const password = 'swaraj@123';
-const clientId = '3MVG9ZL0ppGP5UrACnoIGIA9ErWLEWNjpJ4do7KxYllu_eVX4G8CUebI8NkHmGX0EDqaU19zAwlaN4zTnH6mR';
-const clientSecret = '1872222491789468577';
-const securityToken = 'HwFNwAfFcE2nuQlkrXEvh0G5T';
+const username = '';
+const password = '';
+const clientId = '';
+const clientSecret = '';
+const securityToken = '';
 
 if (!username) { missing("SALESFORCE_USERNAME"); }
 if (!password) { missing("SALESFORCE_PASSWORD"); }
